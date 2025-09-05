@@ -26,4 +26,4 @@ To get started, simply connect one of these popular Solana wallets:
 * **Launch App:** [veitflare.appwrite.network](https://veitflare.appwrite.network)
 * **Deployed Contract:** [3BKcKKW11oHmooqqodS4FzVQRBD8RTLdGuxJnLA58L39](https://explorer.solana.com/address/3BKcKKW11oHmooqqodS4FzVQRBD8RTLdGuxJnLA58L39?cluster=devnet)
 
-## Your funds are waiting for you in the Future 😉
+## Your funds are waiting for you in the Future 😉 ✦ Built By [Floch](https://x.com/0xFloch)(pls follow)
